@@ -13,6 +13,10 @@
 		$this->fname=$f;
 		$this->lname=$l;
 	}
+	pubtlic Te() {
+		
+		
+	}
 	
 }
 class fulltime extends baseclass
